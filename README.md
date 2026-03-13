@@ -1,4 +1,4 @@
-# Hi, I'm Purbasha 👋
+# *Hi, I'm Purbasha* 👋
 ## About Me
 
 A motivated and fast learning data analytics professional with a strong technical foundation, having successfully transitioned from SAP Basis consulting.With a proven history of supporting large-scale enterprise systems, I bring a unique blend of technical depth, analytical thinking, and problem-solving skills.
