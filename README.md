@@ -1,4 +1,5 @@
-## Hi there I'm Purbasha 👋
+# Hi, I'm Purbasha 👋
+## About Me
 
 A motivated and fast learning data analytics professional with a strong technical foundation, having successfully transitioned from SAP Basis consulting.With a proven history of supporting large-scale enterprise systems, I bring a unique blend of technical depth, analytical thinking, and problem-solving skills.
 
@@ -9,6 +10,20 @@ I have hands-on experience working in highly Agile environments, supported by a 
 ## 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+## 📚 Learning
+- Advanced Data Analysis Techniques  
+- Data Visualization & Dashboards  
+- Real-world Analytics Projects
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](#https://www.linkedin.com/in/purbasha-ray/) | [Email](mailto:purbasha.ray@gmail.com)  
+
+---
