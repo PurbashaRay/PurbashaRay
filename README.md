@@ -24,6 +24,6 @@ I have hands-on experience working in highly Agile environments, supported by a 
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](#https://www.linkedin.com/in/purbasha-ray/) | [Email](mailto:purbasha.ray@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/purbasha-ray/) | [Email](mailto:purbasha.ray@gmail.com)  
 
 ---
