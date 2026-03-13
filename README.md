@@ -1,5 +1,5 @@
-# *Hi, I'm Purbasha* 👋
-## About Me
+# Hi, I'm Purbasha 👋
+### *About Me*
 
 A motivated and fast learning data analytics professional with a strong technical foundation, having successfully transitioned from SAP Basis consulting.With a proven history of supporting large-scale enterprise systems, I bring a unique blend of technical depth, analytical thinking, and problem-solving skills.
 
@@ -7,7 +7,9 @@ Now building on my technical foundation, I’m expanding into data analytics, st
 
 I have hands-on experience working in highly Agile environments, supported by a solid grounding in CI/CD practices. My background includes leading and coordinating with remote, cross-functional teams, ensuring seamless project execution and fostering collaborative, high-performance environments.
 
-## 🛠 Skills & Tools
+---
+
+### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -17,7 +19,9 @@ I have hands-on experience working in highly Agile environments, supported by a 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## 📚 Learning
+---
+
+### 📚 Core Competencies
 - Data Analysis & Data Visualization  
 - Python, Pandas, NumPy, Matplotlib  
 - SQL querying, joins, aggregations, filtering  
@@ -26,7 +30,7 @@ I have hands-on experience working in highly Agile environments, supported by a 
 
 ---
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/purbasha-ray/) | [Email](mailto:purbasha.ray@gmail.com)  
 
 ---
