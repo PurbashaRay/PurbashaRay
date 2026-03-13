@@ -15,11 +15,14 @@ I have hands-on experience working in highly Agile environments, supported by a 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F58025?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ## 📚 Learning
-- Advanced Data Analysis Techniques  
-- Data Visualization & Dashboards  
-- Real-world Analytics Projects
+- Data Analysis & Data Visualization  
+- Python, Pandas, NumPy, Matplotlib  
+- SQL querying, joins, aggregations, filtering  
+- Excel, Power BI, Microsoft Office tools  
+- Stakeholder Communication & Reporting  
 
 ---
 
