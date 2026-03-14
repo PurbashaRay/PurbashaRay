@@ -22,7 +22,7 @@ I have hands-on experience working in highly Agile environments, supported by a 
 ---
 
 ### 📚 Core Competencies
-- Data Analysis & Data Visualization  
+- Data Analysis & Data Visualisation  
 - Python, Pandas, NumPy, Matplotlib  
 - SQL querying, joins, aggregations, filtering  
 - Excel, Power BI, Microsoft Office tools  
@@ -30,7 +30,36 @@ I have hands-on experience working in highly Agile environments, supported by a 
 
 ---
 
-### 📫 Connect with Me
+### 📊 Data Analytics Projects
+
+<table>
+<tr>
+<td width="20%">
+
+<img src="https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/raw/main/images/olist.jpg" width="110%">
+
+</td>
+<td width="30%">
+
+#### Olist-E-Commerce-Analytics-Project
+
+**Tools:**  Power-BI, DAX, SQL, Python ,Excel 
+
+**Description:**  
+Explored and analysed the Olist e-commerce dataset (2016–2018) to identify patterns in orders, sales, products and customer activity, and created an interactive Power BI dashboard to present key business insights.
+
+[Visit](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project.git)
+
+
+
+</td>
+</tr>
+</table>
+
+
+---
+
+## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/purbasha-ray/) | [Email](mailto:purbasha.ray@gmail.com)  
 
 ---
