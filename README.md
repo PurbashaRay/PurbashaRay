@@ -34,23 +34,56 @@ I have hands-on experience working in highly Agile environments, supported by a 
 
 <table>
 <tr>
-<td width="20%">
-
-<img src="https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/raw/main/images/olist.jpg" width="110%">
-
+<td width="25">
+<img src="https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project/raw/main/images/olist.jpg" width="190" height="130">
 </td>
-<td width="30%">
+<td width="75%">
+  
+#### Olist E-Commerce Analytics Project
 
-#### Olist-E-Commerce-Analytics-Project
-
-**Tools:**  Power-BI, DAX, SQL, Python ,Excel 
-
-**Description:**  
 Explored and analysed the Olist e-commerce dataset (2016–2018) to identify patterns in orders, sales, products and customer activity, and created an interactive Power BI dashboard to present key business insights.
+
+**Tools:**  Power-BI, DAX, SQL, Python ,Excel
 
 [Visit](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project.git)
 
+</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td width="25">
+<img src="https://github.com/PurbashaRay/AdventureWorks-Data-visualization-Project/raw/main/pic2.png" width="200" height="130">
+</td>
+<td width="75%">
+  
+#### AdventureWorks Data visualisation Project
+
+Worked with the Microsoft AdventureWorks database to perform data extraction, cleaning, and transformation for business analysis. Applied data analytics techniques to uncover insights and support data-driven decision making in a realistic business scenario.
+
+**Tools:**  SQL, Excel, Python
+
+[Visit](https://github.com/PurbashaRay/AdventureWorks-Data-visualization-Project.git)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25">
+<img src="https://github.com/PurbashaRay/Retail-Store-Analysis/raw/main/pic3.png" width="200" height="130">
+</td>
+<td width="75%">
+  
+#### Retail store Analysis Project
+
+Analysed sales data for the first quarter of 2025 for a small retail store specializing in electronics, and created a Power BI dashboard to visualize sales performance.
+
+**Tools:**  Excel,Power-BI
+
+[Visit](https://github.com/PurbashaRay/Retail-Store-Analysis.git)
 
 </td>
 </tr>
