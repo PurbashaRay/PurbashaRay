@@ -7,7 +7,7 @@ Now building on my technical foundation, I’m expanding into data analytics, st
 
 I have hands-on experience working in highly Agile environments, supported by a solid grounding in CI/CD practices. My background includes leading and coordinating with remote, cross-functional teams, ensuring seamless project execution and fostering collaborative, high-performance environments.
 
-### 📫 *[LinkedIn](https://www.linkedin.com/in/purbasha-ray/)* | *[Email](mailto:purbasha.ray@gmail.com)*  
+<small> 📫 *[LinkedIn](https://www.linkedin.com/in/purbasha-ray/)* | *[Email](mailto:purbasha.ray@gmail.com)* </small>
 
 
 ---
