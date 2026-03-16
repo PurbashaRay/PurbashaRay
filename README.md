@@ -61,7 +61,7 @@ Explored and analysed the Olist e-commerce dataset (2016–2018) to identify pat
 </td>
 <td width="75%">
   
-#### 📊🐍🗄️ AdventureWorks Data visualisation 
+#### 🐍🗄️📈 AdventureWorks Data visualisation 
 
 Worked with the Microsoft AdventureWorks database to perform data extraction, cleaning, and transformation for business analysis. Applied data analytics techniques to uncover insights and support data-driven decision making in a realistic business scenario.
 
@@ -99,7 +99,7 @@ Analysed sales data for the first quarter of 2025 for a small retail store speci
 </td>
 <td width="75%">
   
-#### 🐍 Global Population Data Analysis 
+#### 🐍📈 Global Population Data Analysis 
 
 Analysed global population data using Python to identify trends and generate insights relevant to government policy and planning. Implemented data analysis and visualization techniques using Python.
 
@@ -118,7 +118,7 @@ Analysed global population data using Python to identify trends and generate ins
 </td>
 <td width="75%">
   
-#### 🧮 Avocado Sales Analysis 
+#### 🧮📈 Avocado Sales Analysis 
 
 Analysed weekly avocado sales data from U.S. stores using Microsoft Excel to identify patterns and trends in sales performance. Applied data analysis techniques and visualizations to uncover insights from real-world retail data.
 
