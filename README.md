@@ -46,7 +46,7 @@ I have hands-on experience working in highly Agile environments, supported by a 
 
 Explored and analysed the Olist e-commerce dataset (2016–2018) to identify patterns in orders, sales, products and customer activity, and created an interactive Power BI dashboard to present key business insights.
 
-**Tools:**  Power-BI, DAX, SQL, Python ,Excel, Data Analysis, Data Visualization
+**Tools:**  Power-BI, DAX, SQL, Python ,Excel, Data Analysis, Data Visualisation
 
 [Explore](https://github.com/PurbashaRay/Olist-E-Commerce-Analytics-Project.git)
 
@@ -57,7 +57,7 @@ Explored and analysed the Olist e-commerce dataset (2016–2018) to identify pat
 <table>
 <tr>
 <td width="25">
-<img src="https://github.com/PurbashaRay/AdventureWorks-Data-visualization-Project/raw/main/pic9.png" width="200" height="130">
+<img src="https://github.com/PurbashaRay/AdventureWorks-Data-visualization-Project/blob/388ca7b423ab07c9bb5a24b953034db869f03a44/icon.png" width="200" height="130">
 </td>
 <td width="75%">
   
@@ -65,7 +65,7 @@ Explored and analysed the Olist e-commerce dataset (2016–2018) to identify pat
 
 Worked with the Microsoft AdventureWorks database to perform data extraction, cleaning, and transformation for business analysis. Applied data analytics techniques to uncover insights and support data-driven decision making in a realistic business scenario.
 
-**Tools:**  SQL, Excel, Python, Data Analysis, Data Visualization
+**Tools:**  SQL, Excel, Python, Data Analysis, Data Visualisation
 
 [Explore](https://github.com/PurbashaRay/AdventureWorks-Data-visualization-Project.git)
 
@@ -84,7 +84,7 @@ Worked with the Microsoft AdventureWorks database to perform data extraction, cl
 
 Analysed sales data for the first quarter of 2025 for a small retail store specializing in electronics, and created a Power BI dashboard to visualize sales performance.
 
-**Tools:**  Excel, Power-BI, Data Analysis, Data Visualization
+**Tools:**  Excel, Power-BI, Data Analysis, Data Visualisation
 
 [Explore](https://github.com/PurbashaRay/Retail-Store-Analysis.git)
 
@@ -103,7 +103,7 @@ Analysed sales data for the first quarter of 2025 for a small retail store speci
 
 Analysed global population data using Python to identify trends and generate insights relevant to government policy and planning. Implemented data analysis and visualization techniques using Python.
 
-**Tools:**  Python(Pandas, Matplotlib), Data Analysis, Data Visualization
+**Tools:**  Python(Pandas, Matplotlib), Data Analysis, Data Visualisation
 
 [Explore](https://github.com/PurbashaRay/Global-Tech-Population-Analysis.git)
 
@@ -122,9 +122,28 @@ Analysed global population data using Python to identify trends and generate ins
 
 Analysed weekly avocado sales data from U.S. stores using Microsoft Excel to identify patterns and trends in sales performance. Applied data analysis techniques and visualizations to uncover insights from real-world retail data.
 
-**Tools:**  Excel, Data Analysis, Data Visualization
+**Tools:**  Excel, Data Analysis, Data Visualisation
 
 [Explore](https://github.com/PurbashaRay/Wild-Avocado-Project.git)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="25">
+<img src="https://github.com/PurbashaRay/Cafe-Sales-Analysis/blob/58d7429d7bccaef25110f314054e5beeb197f15e/image/pic1.jpg" width="200" height="130">
+</td>
+<td width="75%">
+  
+#### 🐍📊📈 Cafe Sales Analysis 
+
+This project focuses on analysing and visualising sales performance for a Cafe business. The objective is to provide meaningful insights into sales, profit, and customer purchasing behavior using data analytics tools. 
+
+**Tools:**  Python,Power BI, Data Analysis, Data Visualisation
+
+[Explore](https://github.com/PurbashaRay/Cafe-Sales-Analysis.git)
 
 </td>
 </tr>
