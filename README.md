@@ -150,3 +150,22 @@ This project focuses on analysing and visualising sales performance for a Cafe b
 </table>
 
 
+<table>
+<tr>
+<td width="25">
+<img src="https://github.com/PurbashaRay/Call-Centre-report/blob/8049fbe25834ed1578c0b15f0dec60b7a3ff49cc/image/call_centre.png" width="200" height="130">
+</td>
+<td width="75%">
+  
+#### 📈 Call Center Analysis 
+
+ This Excel Call Centre Dashboard analyses representative performance over a financial year, including call trends, revenue generated, customer ratings, and overall rankings to support data-driven decision-making.
+
+**Tools:**  Excel,Data Analysis, Data Visualisation
+
+[Explore](https://github.com/PurbashaRay/Call-Centre-Report.git)
+
+</td>
+</tr>
+</table>
+
